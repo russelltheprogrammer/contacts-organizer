@@ -1,7 +1,7 @@
 # Link to Contacts Organizer --> The link to this project will be provided upon completion of the application
 
 
-# Purpsose
+# Purpose
 
 To create an application to store and organize contacts.
 
