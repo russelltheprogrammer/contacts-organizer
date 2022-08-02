@@ -1,4 +1,4 @@
-# Link to Contacts Organizer--> The link to this project will be provided upon completion of the application
+# Link to Contacts Organizer --> The link to this project will be provided upon completion of the application
 
 
 # Purpsose
